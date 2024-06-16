@@ -1,0 +1,28 @@
+I wanted to take a moment to express my sincere gratitude for your support of my Neovim configuration. 
+
+Your endorsement means a great deal to me and motivates me to continue refining and sharing my work with the community.
+
+Your interest in my Neovim setup not only validates the time and effort I've put into crafting it 
+but also encourages me to explore new features and improvements that can benefit others. I am thrilled to know 
+that my configuration is making a positive impact on your development workflow.
+I am always eager to hear feedback and suggestions from users like you, as it helps me to understand
+how I can make the experience even better. 
+
+If you have any ideas or if there's anything you'd like to see added or modified, please leave commet int https://github.com/Hopen-hub/nvim-Hopen 
+feel free to share your thoughts.
+Once again, thank you for your support.
+It's a true inspiration and a driving force behind my passion for creating and 
+sharing useful tools and configurations with fellow developers.
+
+Warm regards,
+
+[Hopen ZHP]
+
+you can scan 
+https://note.ms/supportme.md
+
+or
+
+https://buymeacoffee.com/Hopen
+
+Thank you very much.
